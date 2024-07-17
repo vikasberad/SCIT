@@ -1,0 +1,5 @@
+(define (problem light_high)
+  (:domain light_intensity)
+  (:init (low_light))
+  (:goal (light_on))
+)
