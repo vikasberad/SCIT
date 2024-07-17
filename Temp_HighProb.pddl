@@ -1,0 +1,5 @@
+(define (problem temp_high)
+  (:domain temperature_control)
+  (:init (and (temp_high) (motion_detected)))
+  (:goal (fan_on))
+)
