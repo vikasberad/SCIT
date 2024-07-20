@@ -10,7 +10,7 @@ pressure_sp = 25
 humidity_sp = 40
 
 # MQTT broker details
-mqttBroker = "192.168.0.100"  # Replace with the IP address of your MQTT broker
+mqttBroker = "172.17.0.1"  # Replace with the IP address of your MQTT broker
 client = mqtt.Client("RemoteSubscriber")
 
 # Parse the output file from AI planner

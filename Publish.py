@@ -14,7 +14,7 @@ heater_led = 3  # D3
 fan_led = 5  # D5
 
 # MQTT broker details
-mqttBroker = "192.168.0.100"  # Replace with the IP address of your MQTT broker
+mqttBroker = "172.17.0.1"  # Replace with the IP address of your MQTT broker
 client = mqtt.Client("RaspberryPiPublisher")
 
 def read_sensors():
