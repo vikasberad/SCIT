@@ -4792,3 +4792,391 @@ Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07
 Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:00,27,57,0,51,79,168utf8
 {"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 49","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:00}"}
 Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:00,0,0,0,49,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 83","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:01}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:01,0,0,0,83,79,168utf8
+{"Time":"{Sound_Level: 82","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 49","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:01}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:01,27,57,0,49,82,168utf8
+{"Time":"{Sound_Level: 75","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 85","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:02}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:02,0,0,0,85,75,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 82","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:02}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:02,0,0,0,82,78,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 83","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:02}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:02,27,57,1,83,78,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 85","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:03}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:03,0,0,1,85,78,168utf8
+{"Time":"{Sound_Level: 77","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 68","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:03}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:03,0,0,1,68,77,168utf8
+{"Time":"{Sound_Level: 77","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 78","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:04}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:04,27,57,1,78,77,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:04}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:04,0,0,1,86,78,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 83","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:05}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:05,0,0,0,83,79,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 85","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:05}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:05,27,57,0,85,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 81","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:05}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:05,0,0,0,81,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 59","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:06}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:06,0,0,0,59,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 83","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:06}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:06,27,57,0,83,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 84","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:07}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:07,0,0,0,84,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 73","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:07}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:07,0,0,0,73,79,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:07}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:07,27,57,0,86,78,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 82","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:08}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:08,0,0,0,82,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 83","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:08}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:08,0,0,0,83,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 82","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:09}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:09,27,57,0,82,79,168utf8
+{"Time":"{Sound_Level: 81","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 85","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:09}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:09,0,0,0,85,81,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 75","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:10}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:10,0,0,1,75,78,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:10}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:10,27,57,1,86,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 66","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:10}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:10,0,0,1,66,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 47","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:11}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:11,0,0,1,47,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 56","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:11}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:11,27,57,1,56,79,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 59","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:12}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:12,0,0,1,59,80,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 84","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:12}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:12,0,0,0,84,80,168utf8
+{"Time":"{Sound_Level: 81","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 79","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:12}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:12,27,57,0,79,81,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 85","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:13}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:13,0,0,0,85,79,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 78","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:13}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:13,0,0,0,78,78,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 85","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:14}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:14,27,57,0,85,79,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 68","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:14}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:14,0,0,0,68,78,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 69","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:15}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:15,0,0,0,69,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 53","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:15}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:15,27,57,0,53,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 50","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:15}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:15,0,0,0,50,79,168utf8
+{"Time":"{Sound_Level: 77","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 83","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:16}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:16,0,0,0,83,77,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 52","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:16}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:16,27,57,0,52,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 68","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:17}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:17,0,0,0,68,79,168utf8
+{"Time":"{Sound_Level: 148","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:17}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:17,0,0,0,86,148,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:18}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:18,27,57,0,86,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 79","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:18}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:18,0,0,0,79,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 53","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:18}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:18,0,0,0,53,79,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 85","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:19}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:19,27,57,0,85,78,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 63","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:19}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:19,0,0,0,63,80,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 69","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:20}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:20,0,0,0,69,78,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 47","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:20}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:20,27,57,0,47,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 51","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:20}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:20,0,0,0,51,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 53","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:21}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:21,0,0,0,53,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 51","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:21}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:21,27,57,0,51,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 65","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:22}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:22,0,0,0,65,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 76","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:22}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:22,0,0,0,76,79,168utf8
+{"Time":"{Sound_Level: 75","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 49","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:23}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:23,27,57,0,49,75,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 84","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:23}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:23,0,0,0,84,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 78","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:23}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:23,0,0,0,78,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 84","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:24}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:24,27,57,0,84,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 82","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:24}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:24,0,0,0,82,79,168utf8
+{"Time":"{Sound_Level: 75","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 67","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:25}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:25,0,0,0,67,75,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:25}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:25,27,57,0,86,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 67","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:25}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:25,0,0,0,67,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 47","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:26}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:26,0,0,0,47,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 55","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:26}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:26,27,57,0,55,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 61","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:27}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:27,0,0,0,61,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 79","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:27}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:27,0,0,0,79,79,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 56","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:28}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:28,27,57,0,56,78,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:28}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:28,0,0,0,86,78,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 79","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:28}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:28,0,0,0,79,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:29}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:29,27,57,0,86,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 77","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:29}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:29,0,0,0,77,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 49","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:30}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:30,0,0,0,49,79,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 69","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:30}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:30,27,57,0,69,78,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 51","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:30}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:30,0,0,0,51,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 67","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:31}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:31,0,0,0,67,79,168utf8
+{"Time":"{Sound_Level: 77","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 47","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:31}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:31,27,57,0,47,77,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 77","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:32}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:32,0,0,1,77,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 66","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:32}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:32,0,0,1,66,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 47","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:33}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:33,27,57,1,47,79,168utf8
+{"Time":"{Sound_Level: 281","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 71","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:33}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:33,0,0,1,71,281,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:33}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:33,0,0,1,86,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 60","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:34}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:34,27,57,0,60,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 83","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:34}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:34,0,0,0,83,79,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 82","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:35}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:35,0,0,0,82,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 79","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:35}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:35,27,57,1,79,79,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 72","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:36}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:36,0,0,1,72,78,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 55","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:36}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:36,0,0,1,55,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 85","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:36}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:36,27,57,1,85,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 73","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:37}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:37,0,0,1,73,79,168utf8
+{"Time":"{Sound_Level: 81","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 56","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:37}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:37,0,0,1,56,81,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 76","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:38}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:38,27,57,0,76,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 57","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:38}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:38,0,0,0,57,79,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 83","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:38}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:38,0,0,0,83,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 71","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:39}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:39,27,57,0,71,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:39}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:39,0,0,0,86,79,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:40}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:40,0,0,0,86,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 71","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:40}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:40,27,57,0,71,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 82","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:41}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:41,0,0,0,82,79,168utf8
+{"Time":"{Sound_Level: 75","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 84","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:41}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:41,0,0,0,84,75,168utf8
+{"Time":"{Sound_Level: 83","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:41}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:41,27,57,0,86,83,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:42}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:42,0,0,0,86,79,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 64","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:42}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:42,0,0,1,64,78,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 80","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:43}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:43,27,57,1,80,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 64","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:43}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:43,0,0,1,64,79,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 51","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:43}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:43,0,0,1,51,78,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 77","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:44}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:44,27,57,1,77,79,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 51","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:44}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:44,0,0,1,51,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 82","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:45}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:45,0,0,0,82,79,168utf8
+{"Time":"{Sound_Level: 81","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 67","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:45}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:45,27,57,0,67,81,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 85","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:46}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:46,0,0,0,85,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 63","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:46}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:46,0,0,0,63,79,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 82","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:46}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:46,27,57,1,82,78,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 73","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:47}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:47,0,0,1,73,79,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 48","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:47}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:47,0,0,1,48,80,168utf8
+{"Time":"{Sound_Level: 77","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 64","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:48}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:48,27,57,1,64,77,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 74","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:48}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:48,0,0,1,74,80,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 48","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:49}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:49,0,0,0,48,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 81","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:49}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:49,27,57,0,81,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 56","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:49}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:49,0,0,0,56,79,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 60","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:50}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:50,0,0,0,60,80,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 47","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:50}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:50,27,57,0,47,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 84","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:51}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:51,0,0,0,84,79,168utf8
+{"Time":"{Sound_Level: 84","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 80","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:51}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:51,0,0,0,80,84,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 65","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:51}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:51,27,57,0,65,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:52}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:52,0,0,0,86,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:52}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:52,0,0,1,86,79,168utf8
+{"Time":"{Sound_Level: 77","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 55","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:53}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:53,27,57,1,55,77,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 70","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:53}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:53,0,0,1,70,79,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 80","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:54}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:54,0,0,1,80,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 49","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:54}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:54,27,57,1,49,79,168utf8
+{"Time":"{Sound_Level: 81","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 53","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:54}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:54,0,0,1,53,81,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 71","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:55}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:55,0,0,0,71,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 49","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:55}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:55,27,57,0,49,79,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 56","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:56}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:56,0,0,0,56,80,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 76","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:56}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:56,0,0,1,76,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 55","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:56}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:56,27,57,1,55,79,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 84","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:57}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:57,0,0,1,84,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:57}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:57,0,0,1,86,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 72","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:58}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:58,27,57,1,72,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 87","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:58}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:58,0,0,0,87,79,168utf8
+{"Time":"{Sound_Level: 123","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 72","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:59}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:59,0,0,0,72,123,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:53:59}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:59,27,57,0,86,79,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 79","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:53:59}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:53:59,0,0,0,79,78,168utf8
+{"Time":"{Sound_Level: 84","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 54","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:00}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:00,0,0,0,54,84,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 78","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:00}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:00,27,57,1,78,78,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 49","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:01}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:01,0,0,1,49,80,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 76","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:01}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:01,0,0,1,76,80,168utf8
+{"Time":"{Sound_Level: 81","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 64","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:02}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:02,27,57,1,64,81,168utf8
+{"Time":"{Sound_Level: 82","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 51","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:02}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:02,0,0,1,51,82,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 52","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:02}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:02,0,0,1,52,79,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 80","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:03}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:03,27,57,0,80,78,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 47","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:03}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:03,0,0,0,47,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 77","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:04}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:04,0,0,0,77,79,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 63","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:04}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:04,27,57,1,63,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 84","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:04}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:04,0,0,1,84,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 81","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:05}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:05,0,0,1,81,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 79","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:05}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:05,27,57,1,79,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 79","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:06}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:06,0,0,1,79,79,168utf8
+{"Time":"{Sound_Level: 81","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 84","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:06}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:06,0,0,0,84,81,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 85","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:07}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:07,27,57,0,85,79,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 71","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:07}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:07,0,0,0,71,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 47","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:07}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:07,0,0,0,47,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 54","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:08}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:08,27,57,0,54,79,168utf8
+{"Time":"{Sound_Level: 81","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 82","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:08}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:08,0,0,0,82,81,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 82","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:09}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:09,0,0,0,82,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:09}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:09,27,57,0,86,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 70","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:09}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:09,0,0,0,70,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 59","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:10}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:10,0,0,0,59,79,168utf8
+{"Time":"{Sound_Level: 234","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 84","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:10}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:10,27,57,0,84,234,168utf8
+{"Time":"{Sound_Level: 83","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 47","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:11}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:11,0,0,0,47,83,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 77","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:11}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:11,0,0,1,77,79,168utf8
+{"Time":"{Sound_Level: 81","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 65","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:12}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:12,27,57,1,65,81,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 79","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:12}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:12,0,0,1,79,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 66","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:12}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:12,0,0,1,66,79,168utf8
+{"Time":"{Sound_Level: 82","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 79","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:13}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:13,27,57,1,79,82,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 63","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:13}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:13,0,0,1,63,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 51","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:14}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:14,0,0,0,51,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 74","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:14}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:14,27,57,0,74,79,168utf8
+{"Time":"{Sound_Level: 78","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 47","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:15}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:15,0,0,0,47,78,168utf8
+{"Time":"{Sound_Level: 81","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 73","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:15}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:15,0,0,0,73,81,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 51","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:15}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:15,27,57,1,51,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 87","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:16}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:16,0,0,1,87,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 75","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:16}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:16,0,0,1,75,79,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 86","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:17}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:17,27,57,1,86,80,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 69","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:17}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:17,0,0,1,69,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 52","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:17}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:17,0,0,1,52,79,168utf8
+{"Time":"{Sound_Level: 80","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 79","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:18}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:18,27,57,0,79,80,168utf8
+{"Time":"{Sound_Level: 81","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 50","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:18}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:18,0,0,0,50,81,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 82","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:19}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:19,0,0,0,82,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 47","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:19}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:19,27,57,1,47,79,168utf8
+{"Time":"{Sound_Level: 82","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 62","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:20}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:20,0,0,1,62,82,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 70","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:20}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:20,0,0,1,70,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 58","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:20}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:20,27,57,1,58,79,168utf8
+{"Time":"{Sound_Level: 81","Temperature":" Distance: 168","Humidity":" Motion: 1","Motion":" Light_intensity: 48","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:21}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:21,0,0,1,48,81,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 54","Light_intensity":" Humidity: 0.0","Sound_Level":" Temperature: 0.0","Distance":" Time: 2024-07-21 23:54:21}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:21,0,0,0,54,79,168utf8
+{"Time":"{Sound_Level: 79","Temperature":" Distance: 168","Humidity":" Motion: 0","Motion":" Light_intensity: 51","Light_intensity":" Humidity: 57.0","Sound_Level":" Temperature: 27.0","Distance":" Time: 2024-07-21 23:54:22}"}
+Time,Temperature,Humidity,Motion,Light_intensity,Sound_Level,Distanceutf82024-07-21 23:54:22,27,57,0,51,79,168utf8
