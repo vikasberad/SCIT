@@ -1,0 +1,5 @@
+(define (problem adjust_humidity)
+  (:domain humidity_control)
+  (:init (hum_high))
+  (:goal (humidity_off))
+)

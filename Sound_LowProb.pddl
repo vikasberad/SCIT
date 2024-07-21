@@ -1,5 +1,0 @@
-(define (problem sound_low)
-  (:domain sound_level)
-  (:init (low_sound))
-  (:goal (sound_off))
-)

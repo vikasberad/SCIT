@@ -2,6 +2,7 @@ import paho.mqtt.client as mqtt
 import time
 import grovepi
 import math
+import json
 
 # Sensor and actuator pins
 temp_humidity_sensor = 7  # D7
@@ -13,8 +14,11 @@ door_relay = 2  # D2
 heater_led = 3  # D3
 fan_led = 5  # D5
 
+# Threshold for ultrasonic sensor to open the door
+DOOR_OPEN_DISTANCE_THRESHOLD = 10  # distance in cm
+
 # MQTT broker details
-mqttBroker = "172.17.0.1"  # Replace with the IP address of your MQTT broker
+mqttBroker = "broker.hivemq.com"  # Public broker address
 client = mqtt.Client("RaspberryPiPublisher")
 
 def read_sensors():
@@ -42,7 +46,7 @@ def on_connect(client, userdata, flags, rc):
         print("Connected to MQTT Broker!")
         client.subscribe("HEALTH_PDDL")
     else:
-        print("Failed to connect, return code %d\n", rc)
+        print("Failed to connect, return code {}\n".format(rc))
 
 def on_publish(client, userdata, result):
     print("Data published.\n")
@@ -60,9 +64,9 @@ def handle_actuation(action):
     elif action.get('light_action') == 'turn_off_light':
         grovepi.digitalWrite(light_sensor, 0)
 
-    if action.get('pressure_action') == 'turn_on_pressure':
+    if action.get('door_action') == 'open_door':
         grovepi.digitalWrite(door_relay, 1)
-    elif action.get('pressure_action') == 'turn_off_pressure':
+    elif action.get('door_action') == 'close_door':
         grovepi.digitalWrite(door_relay, 0)
 
     if action.get('temp_action') == 'turn_on_heater':
@@ -70,9 +74,9 @@ def handle_actuation(action):
     elif action.get('temp_action') == 'turn_off_heater':
         grovepi.digitalWrite(heater_led, 0)
 
-    if action.get('hum_action') == 'turn_on_humidity':
+    if action.get('hum_action') == 'turn_on_fan':
         grovepi.digitalWrite(fan_led, 1)
-    elif action.get('hum_action') == 'turn_off_humidity':
+    elif action.get('hum_action') == 'turn_off_fan':
         grovepi.digitalWrite(fan_led, 0)
 
 client.on_connect = on_connect
@@ -80,26 +84,43 @@ client.on_publish = on_publish
 client.on_message = on_message
 client.connect(mqttBroker)
 
+print("Connecting to MQTT broker at {}...".format(mqttBroker))
+try:
+    client.connect(mqttBroker, 1883, 60)
+except Exception as e:
+    print("Connection failed: {}".format(e))
+
 def main():
     while True:
-        temp, hum, sound_level, distance, motion, light_intensity = read_sensors()
+        try:
+            temp, hum, sound_level, distance, motion, light_intensity = read_sensors()
 
-        # Prepare the payload data
-        payload_data = {
-            "Temperature": temp,
-            "Humidity": hum,
-            "Sound_Level": sound_level,
-            "Distance": distance,
-            "Motion": motion,
-            "Light_intensity": light_intensity,
-            "Time": time.strftime('%Y-%m-%d %H:%M:%S')
-        }
+            # Logic for opening the door based on ultrasonic sensor
+            if distance <= DOOR_OPEN_DISTANCE_THRESHOLD:
+                print("Distance is within threshold, opening door.")
+                grovepi.digitalWrite(door_relay, 1)  # Open door
+            else:
+                grovepi.digitalWrite(door_relay, 0)  # Close door
 
-        mqtt_payload = str(payload_data)
-        client.publish("HEALTH", mqtt_payload)
-        print("Just published " + mqtt_payload + " to Topic HEALTH")
+            # Prepare the payload data
+            payload_data = {
+                "Temperature": temp,
+                "Humidity": hum,
+                "Sound_Level": sound_level,
+                "Distance": distance,
+                "Motion": motion,
+                "Light_intensity": light_intensity,
+                "Time": time.strftime('%Y-%m-%d %H:%M:%S')
+            }
 
-        time.sleep(5)
+            mqtt_payload = json.dumps(payload_data)
+            client.publish("HEALTH", mqtt_payload)
+            print("Just published " + mqtt_payload + " to Topic HEALTH")
+
+        except Exception as e:
+            print("Error reading sensors or publishing: {}".format(e))
+
+        time.sleep(0.1)
 
 if __name__ == "__main__":
     main()

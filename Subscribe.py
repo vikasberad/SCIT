@@ -1,21 +1,26 @@
 import paho.mqtt.client as mqtt
 import time
 import os
-import ast
 
 # Setpoints
 light_sp = 300
-temp_sp = 30
-pressure_sp = 25
+temp_sp_low = 20  # Lower bound for temperature setpoint
+temp_sp_high = 25  # Upper bound for temperature setpoint
 humidity_sp = 40
 
 # MQTT broker details
-mqttBroker = "172.17.0.1"  # Replace with the IP address of your MQTT broker
-client = mqtt.Client("RemoteSubscriber")
+mqttBroker = "broker.hivemq.com"  # Public broker address
+client = mqtt.Client("RemoteSubscriber", protocol=mqtt.MQTTv311)
+
+# Path to the AI planner script
+ai_planner_path = 'C:\\Users\\ananda\\Desktop\\SCIOT\\SCIT\\ai_planner_2.py'
 
 # Parse the output file from AI planner
 def parseFile(filename):
-    with open(filename, 'r+') as f:
+    if not os.path.exists(filename):
+        with open(filename, 'w') as f:
+            f.write("turn_on_light\n")  # Example default action
+    with open(filename, 'r') as f:
         lines = f.readlines()
     print("F.PRINTLINE IS", lines, len(lines))
     action1 = lines[0].strip().split()[0]
@@ -36,7 +41,7 @@ def on_message(client, userdata, message):
     payload_data = eval(s)
     print("Payload data: ", payload_data)
     
-    excel_data = {'Time': None, 'Temperature': None, 'Humidity': None, 'Pressure': None, 'Motion': None, 'Alert': None, 'Light_intensity': None}
+    excel_data = {'Time': None, 'Temperature': None, 'Humidity': None, 'Motion': None, 'Alert': None, 'Light_intensity': None}
     
     for key in excel_data.keys():
         if key in payload_data:
@@ -46,7 +51,6 @@ def on_message(client, userdata, message):
 
     # Initialize action variables
     light_action = None
-    pressure_action = None
     temp_action = None
     hum_action = None
 
@@ -61,26 +65,20 @@ def on_message(client, userdata, message):
         print("OFF plan created")
     light_action = run_planner(domain, problem, filename)
 
-    # Pressure PDDL
-    domain = 'Pressure_Domain.pddl'
-    filename = 'pressure_plan.txt'
-    if excel_data['Pressure'] < pressure_sp:
-        problem = 'Pressure_HighProb.pddl'
-        print("ON plan created")
-    else:
-        problem = 'Pressure_LowProb.pddl'
-        print("OFF plan created")
-    pressure_action = run_planner(domain, problem, filename)
-
     # Temperature PDDL
     domain = 'Temp_Domain.pddl'
     filename = 'temp_plan.txt'
-    if excel_data['Temperature'] > temp_sp:
+    if excel_data['Temperature'] > temp_sp and excel_data['Motion'] == 1:
         problem = 'Temp_HighProb.pddl'
         print("ON plan created")
-    else:
+    elif excel_data['Temperature'] <= temp_sp and excel_data['Motion'] == 1:
         problem = 'Temp_LowProb.pddl'
-        print("OFF plan created")
+        print("ON plan created")
+    elif excel_data['Motion'] == 0:
+        # No motion detected, both heater and fan should be off
+        with open(filename, 'w') as f:
+            f.write("turn_off_heater\nturn_off_fan\n")
+        print("OFF plan created due to no motion")
     temp_action = run_planner(domain, problem, filename)
   
     # Humidity PDDL
@@ -97,7 +95,6 @@ def on_message(client, userdata, message):
     # Combine actions
     action = {
         'light_action': light_action,
-        'pressure_action': pressure_action,
         'temp_action': temp_action,
         'hum_action': hum_action
     }
@@ -113,7 +110,7 @@ def on_connect(client, userdata, flags, rc):
         print("Connected with result code " + str(rc))
         client.subscribe("HEALTH")
     else:
-        print("Failed to connect, return code %d\n", rc)
+        print("Failed to connect, return code {}\n".format(rc))
 
 # Create a MQTT client instance
 client.on_connect = on_connect
