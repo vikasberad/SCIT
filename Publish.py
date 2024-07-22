@@ -22,24 +22,28 @@ mqttBroker = "broker.hivemq.com"  # Public broker address
 client = mqtt.Client("RaspberryPiPublisher")
 
 def read_sensors():
-    # Reading temperature and humidity
-    [temp, hum] = grovepi.dht(temp_humidity_sensor, 0)
-    if math.isnan(temp) or math.isnan(hum):
-        temp, hum = 0.0, 0.0
+    try:
+        # Reading temperature and humidity
+        [temp, hum] = grovepi.dht(temp_humidity_sensor, 0)
+        if math.isnan(temp) or math.isnan(hum):
+            temp, hum = 0.0, 0.0
 
-    # Reading sound level
-    sound_level = grovepi.analogRead(sound_sensor)
+        # Reading sound level
+        sound_level = grovepi.analogRead(sound_sensor)
 
-    # Reading distance from ultrasonic sensor
-    distance = grovepi.ultrasonicRead(ultrasonic_sensor)
+        # Reading distance from ultrasonic sensor
+        distance = grovepi.ultrasonicRead(ultrasonic_sensor)
 
-    # Reading motion from PIR sensor
-    motion = grovepi.digitalRead(pir_sensor)
+        # Reading motion from PIR sensor
+        motion = grovepi.digitalRead(pir_sensor)
 
-    # Reading light intensity
-    light_intensity = grovepi.analogRead(light_sensor)
+        # Reading light intensity
+        light_intensity = grovepi.analogRead(light_sensor)
 
-    return temp, hum, sound_level, distance, motion, light_intensity
+        return temp, hum, sound_level, distance, motion, light_intensity
+    except Exception as e:
+        print("Error reading sensors: {}".format(e))
+        return 0.0, 0.0, 0, 0, 0, 0
 
 def on_connect(client, userdata, flags, rc):
     if rc == 0:
@@ -53,44 +57,52 @@ def on_publish(client, userdata, result):
     pass
 
 def on_message(client, userdata, message):
-    s = str(message.payload.decode("utf-8"))
-    print("Received action: ", s)
-    action = eval(s)
-    handle_actuation(action)
+    try:
+        s = str(message.payload.decode("utf-8"))
+        print("Received action: ", s)
+        action = eval(s)
+        handle_actuation(action)
+    except Exception as e:
+        print("Error handling message: {}".format(e))
 
 def handle_actuation(action):
-    if action.get('light_action') == 'turn_on_light':
-        grovepi.digitalWrite(light_sensor, 1)
-    elif action.get('light_action') == 'turn_off_light':
-        grovepi.digitalWrite(light_sensor, 0)
+    try:
+        if action.get('light_action') == 'turn_on_light':
+            grovepi.digitalWrite(light_sensor, 1)
+        elif action.get('light_action') == 'turn_off_light':
+            grovepi.digitalWrite(light_sensor, 0)
 
-    if action.get('door_action') == 'open_door':
-        grovepi.digitalWrite(door_relay, 1)
-    elif action.get('door_action') == 'close_door':
-        grovepi.digitalWrite(door_relay, 0)
+        if action.get('door_action') == 'open_door':
+            grovepi.digitalWrite(door_relay, 1)
+        elif action.get('door_action') == 'close_door':
+            grovepi.digitalWrite(door_relay, 0)
 
-    if action.get('temp_action') == 'turn_on_heater':
-        grovepi.digitalWrite(heater_led, 1)
-    elif action.get('temp_action') == 'turn_off_heater':
-        grovepi.digitalWrite(heater_led, 0)
+        if action.get('temp_action') == 'turn_on_heater':
+            grovepi.digitalWrite(heater_led, 1)
+        elif action.get('temp_action') == 'turn_off_heater':
+            grovepi.digitalWrite(heater_led, 0)
 
-    if action.get('hum_action') == 'turn_on_fan':
-        grovepi.digitalWrite(fan_led, 1)
-    elif action.get('hum_action') == 'turn_off_fan':
-        grovepi.digitalWrite(fan_led, 0)
-
-client.on_connect = on_connect
-client.on_publish = on_publish
-client.on_message = on_message
-client.connect(mqttBroker)
-
-print("Connecting to MQTT broker at {}...".format(mqttBroker))
-try:
-    client.connect(mqttBroker, 1883, 60)
-except Exception as e:
-    print("Connection failed: {}".format(e))
+        if action.get('hum_action') == 'turn_on_fan':
+            grovepi.digitalWrite(fan_led, 1)
+        elif action.get('hum_action') == 'turn_off_fan':
+            grovepi.digitalWrite(fan_led, 0)
+    except Exception as e:
+        print("Error handling actuation: {}".format(e))
 
 def main():
+    client.on_connect = on_connect
+    client.on_publish = on_publish
+    client.on_message = on_message
+
+    print("Connecting to MQTT broker at {}...".format(mqttBroker))
+    try:
+        client.connect(mqttBroker, 1883, 60)
+    except Exception as e:
+        print("Connection failed: {}".format(e))
+        return
+
+    client.loop_start()
+
     while True:
         try:
             temp, hum, sound_level, distance, motion, light_intensity = read_sensors()
@@ -120,7 +132,7 @@ def main():
         except Exception as e:
             print("Error reading sensors or publishing: {}".format(e))
 
-        time.sleep(0.1)
+        time.sleep(1)
 
 if __name__ == "__main__":
     main()

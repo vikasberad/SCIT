@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-red-dashboard": "^3.6.5",
+    "node-red-node-mysql": "^2.0.0"
+  }
+}
