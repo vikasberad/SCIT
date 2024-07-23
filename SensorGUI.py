@@ -105,7 +105,7 @@ gauge_hum, label_hum_value = create_gauge(frame_hum, 100)
 gauge_sound, label_sound_value = create_gauge(frame_sound, 150)
 gauge_light, label_light_value = create_gauge(frame_light, 1023)
 
-label_motion = ttk.Label(frame_motion, text="No Motion", font=("Helvetica", 10))
+label_motion = ttk.Label(frame_motion, text="Room Empty", font=("Helvetica", 10))
 label_motion.pack(pady=10)
 
 label_door_status = ttk.Label(frame_door, text="Door Closed", font=("Helvetica", 10))
@@ -141,7 +141,9 @@ def update_gauges():
     gauge_light["value"] = data["Light_intensity"]
     label_light_value.config(text=f"{data['Light_intensity']}")
 
-    label_motion.config(text="Room Occupied" if data["Motion"] else "Room Empty")
+    current_time = time.time()
+    motion_detected = last_motion_time and (current_time - last_motion_time <= 20)
+    label_motion.config(text="Room Occupied" if motion_detected else "Room Empty")
 
     update_heater_fan_status()
     update_dehumidifier_status()
